@@ -1,0 +1,699 @@
+{
+  "_note": "DUMMY DATA for the prototype. Rates are invented, not any agency's real prices. To use real rates, copy this file to scripts/seed-data.local.json (gitignored) and edit it.",
+  "hotels": [
+    {
+      "name": "Arafat Golden (old Fakhir Kudai)",
+      "city": "Makkah",
+      "location": "Umm Al-Moumin Street",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": 34,
+        "triple": 24,
+        "quad": 19,
+        "quint": 16,
+        "sharing": 14
+      }
+    },
+    {
+      "name": "Fakhir Al Azizia",
+      "city": "Makkah",
+      "location": "Azizia Makkah",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": 38,
+        "triple": 27,
+        "quad": 21,
+        "quint": 18,
+        "sharing": 16
+      }
+    },
+    {
+      "name": "Qila Ajyad",
+      "city": "Makkah",
+      "location": "Ajyad Street",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": 42,
+        "triple": 29,
+        "quad": 23,
+        "quint": 20,
+        "sharing": 18
+      }
+    },
+    {
+      "name": "Al Kiswah Towers",
+      "city": "Makkah",
+      "location": "Altaysir Street",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": 36,
+        "triple": 25,
+        "quad": 20,
+        "quint": 17,
+        "sharing": 15
+      }
+    },
+    {
+      "name": "Taj Fiddi Hotel",
+      "city": "Makkah",
+      "location": "Ajyad Street",
+      "distance": "700-800 m",
+      "rates": {
+        "double": 54,
+        "triple": 38,
+        "quad": 30,
+        "quint": 25,
+        "sharing": 23
+      }
+    },
+    {
+      "name": "Land Premium",
+      "city": "Makkah",
+      "location": "Misfalah Kubri",
+      "distance": "1000 m",
+      "rates": {
+        "double": 48,
+        "triple": 34,
+        "quad": 26,
+        "quint": 23,
+        "sharing": 20
+      }
+    },
+    {
+      "name": "Miaad Al Majd",
+      "city": "Makkah",
+      "location": "Al Hajlah Road",
+      "distance": "700-800 m",
+      "rates": {
+        "double": 52,
+        "triple": 36,
+        "quad": 29,
+        "quint": 24,
+        "sharing": 22
+      }
+    },
+    {
+      "name": "Mella 1",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "650-700 m",
+      "rates": {
+        "double": 72,
+        "triple": 50,
+        "quad": 40,
+        "quint": null,
+        "sharing": 30
+      }
+    },
+    {
+      "name": "Mella 2",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "650-700 m",
+      "rates": {
+        "double": 66,
+        "triple": 46,
+        "quad": 36,
+        "quint": 31,
+        "sharing": 28
+      }
+    },
+    {
+      "name": "Saif Al Majd",
+      "city": "Makkah",
+      "location": "Al Hajlah Road",
+      "distance": "650 m",
+      "rates": {
+        "double": 70,
+        "triple": 49,
+        "quad": 38,
+        "quint": 33,
+        "sharing": 29
+      }
+    },
+    {
+      "name": "Areej Al Zahbi",
+      "city": "Makkah",
+      "location": "Al Hijrah Road",
+      "distance": "450-500 m",
+      "rates": {
+        "double": 88,
+        "triple": 62,
+        "quad": 48,
+        "quint": 41,
+        "sharing": 37
+      }
+    },
+    {
+      "name": "Shams Al Zahbi",
+      "city": "Makkah",
+      "location": "Al Hijrah Road",
+      "distance": "350-400 m",
+      "rates": {
+        "double": 92,
+        "triple": 64,
+        "quad": 51,
+        "quint": 43,
+        "sharing": 39
+      }
+    },
+    {
+      "name": "Dhaif Hotel (beside Shohada Hotel Ajyad)",
+      "city": "Makkah",
+      "location": "Ajyad Street",
+      "distance": "300 m",
+      "rates": {
+        "double": 129,
+        "triple": 90,
+        "quad": 71,
+        "quint": 61,
+        "sharing": 54
+      }
+    },
+    {
+      "name": "Badar Al Massa",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "600 m",
+      "rates": {
+        "double": 66,
+        "triple": 46,
+        "quad": 36,
+        "quint": 31,
+        "sharing": 28
+      }
+    },
+    {
+      "name": "Nawara Shams 3",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "250-300 m",
+      "rates": {
+        "double": 127,
+        "triple": 89,
+        "quad": 70,
+        "quint": 60,
+        "sharing": 53
+      }
+    },
+    {
+      "name": "Voco Hotel",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": 34,
+        "triple": 24,
+        "quad": 19,
+        "quint": 16,
+        "sharing": 14
+      }
+    },
+    {
+      "name": "That Hotel",
+      "city": "Makkah",
+      "location": "Misfalah Kubri",
+      "distance": "800-900 m",
+      "rates": {
+        "double": 52,
+        "triple": 36,
+        "quad": 29,
+        "quint": 24,
+        "sharing": 22
+      }
+    },
+    {
+      "name": "Diwan Al Bait",
+      "city": "Makkah",
+      "location": "Ibrahim Khalil Road",
+      "distance": "500-600 m",
+      "rates": {
+        "double": 72,
+        "triple": 50,
+        "quad": 40,
+        "quint": 34,
+        "sharing": 30
+      }
+    },
+    {
+      "name": "Rehab Al Madain",
+      "city": "Madinah",
+      "location": "Qurban Nazil Road",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": null,
+        "triple": 24,
+        "quad": 19,
+        "quint": 16,
+        "sharing": 14
+      }
+    },
+    {
+      "name": "Fundaq Al Rayyan",
+      "city": "Madinah",
+      "location": "Behind Masjid Quba Road",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": null,
+        "triple": 27,
+        "quad": 21,
+        "quint": 18,
+        "sharing": 16
+      }
+    },
+    {
+      "name": "Hala Taibah",
+      "city": "Madinah",
+      "location": "Abdul Aziz Road",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": null,
+        "triple": 29,
+        "quad": 23,
+        "quint": 20,
+        "sharing": 18
+      }
+    },
+    {
+      "name": "Manazil Marjan",
+      "city": "Madinah",
+      "location": "Qurban Nazil Road",
+      "distance": "Shuttle service",
+      "rates": {
+        "double": null,
+        "triple": 25,
+        "quad": 20,
+        "quint": 17,
+        "sharing": 15
+      }
+    },
+    {
+      "name": "Diyar Al Safa (old Safa Center)",
+      "city": "Madinah",
+      "location": "Masjid Bilal Side",
+      "distance": "700-750 m",
+      "rates": {
+        "double": null,
+        "triple": 38,
+        "quad": 30,
+        "quint": 25,
+        "sharing": 23
+      }
+    },
+    {
+      "name": "Wahat Al Shark",
+      "city": "Madinah",
+      "location": "Masjid Bilal Side",
+      "distance": "700-750 m",
+      "rates": {
+        "double": null,
+        "triple": 34,
+        "quad": 26,
+        "quint": 23,
+        "sharing": 20
+      }
+    },
+    {
+      "name": "Nuzul Al Falah",
+      "city": "Madinah",
+      "location": "Albaik Opposite Side",
+      "distance": "450 m",
+      "rates": {
+        "double": null,
+        "triple": 64,
+        "quad": 51,
+        "quint": 43,
+        "sharing": 39
+      }
+    },
+    {
+      "name": "Hamouda Al Masi",
+      "city": "Madinah",
+      "location": "Masjid Bilal Side",
+      "distance": "600 m",
+      "rates": {
+        "double": null,
+        "triple": 50,
+        "quad": 40,
+        "quint": 34,
+        "sharing": 30
+      }
+    },
+    {
+      "name": "Burj Mukhtara",
+      "city": "Madinah",
+      "location": "Bab Al Salam Road",
+      "distance": "300-350 m",
+      "rates": {
+        "double": null,
+        "triple": 86,
+        "quad": 68,
+        "quint": 58,
+        "sharing": 52
+      }
+    },
+    {
+      "name": "Bir Al Eiman / Warda Safa",
+      "city": "Madinah",
+      "location": "South Markazia",
+      "distance": "200-250 m",
+      "rates": {
+        "double": null,
+        "triple": 89,
+        "quad": 70,
+        "quint": 60,
+        "sharing": 53
+      }
+    },
+    {
+      "name": "Taif Nebras",
+      "city": "Madinah",
+      "location": "South Markazia",
+      "distance": "200-250 m",
+      "rates": {
+        "double": null,
+        "triple": 85,
+        "quad": 67,
+        "quint": 57,
+        "sharing": 51
+      }
+    },
+    {
+      "name": "Marjan Golden",
+      "city": "Madinah",
+      "location": "Markazia Garbia Side",
+      "distance": "100 m",
+      "rates": {
+        "double": null,
+        "triple": 112,
+        "quad": 88,
+        "quint": 75,
+        "sharing": 67
+      }
+    },
+    {
+      "name": "Rama Al Madinah",
+      "city": "Madinah",
+      "location": "South Markazia",
+      "distance": "100 m",
+      "rates": {
+        "double": null,
+        "triple": 115,
+        "quad": 90,
+        "quint": 77,
+        "sharing": 69
+      }
+    }
+  ],
+  "transport": [
+    {
+      "route": "JED APT-MAK HTL",
+      "prices": {
+        "CAMRY/SONATA": 240,
+        "H1/HYUNDAI": 290,
+        "GMC": 455,
+        "HIACE": 370,
+        "COASTER": 600
+      }
+    },
+    {
+      "route": "MAK HTL-JED APT",
+      "prices": {
+        "CAMRY/SONATA": 200,
+        "H1/HYUNDAI": 240,
+        "GMC": 380,
+        "HIACE": 310,
+        "COASTER": 500
+      }
+    },
+    {
+      "route": "MAK HTL-MED HTL",
+      "prices": {
+        "CAMRY/SONATA": 340,
+        "H1/HYUNDAI": 410,
+        "GMC": 645,
+        "HIACE": 525,
+        "COASTER": 850
+      }
+    },
+    {
+      "route": "MED HTL-MAK HTL",
+      "prices": {
+        "CAMRY/SONATA": 340,
+        "H1/HYUNDAI": 410,
+        "GMC": 645,
+        "HIACE": 525,
+        "COASTER": 850
+      }
+    },
+    {
+      "route": "MED HTL-MED APT",
+      "prices": {
+        "CAMRY/SONATA": 130,
+        "H1/HYUNDAI": 155,
+        "GMC": 245,
+        "HIACE": 200,
+        "COASTER": 325
+      }
+    },
+    {
+      "route": "MED APT-MED HTL",
+      "prices": {
+        "CAMRY/SONATA": 150,
+        "H1/HYUNDAI": 180,
+        "GMC": 285,
+        "HIACE": 230,
+        "COASTER": 375
+      }
+    },
+    {
+      "route": "MED HTL-JED APT",
+      "prices": {
+        "CAMRY/SONATA": 400,
+        "H1/HYUNDAI": 480,
+        "GMC": 760,
+        "HIACE": 620,
+        "COASTER": 1000
+      }
+    },
+    {
+      "route": "JED APT-MED HTL",
+      "prices": {
+        "CAMRY/SONATA": 400,
+        "H1/HYUNDAI": 480,
+        "GMC": 760,
+        "HIACE": 620,
+        "COASTER": 1000
+      }
+    },
+    {
+      "route": "MED ZIYARAT",
+      "prices": {
+        "CAMRY/SONATA": 150,
+        "H1/HYUNDAI": 180,
+        "GMC": 285,
+        "HIACE": 230,
+        "COASTER": 375
+      }
+    },
+    {
+      "route": "MAK ZIYARAT",
+      "prices": {
+        "CAMRY/SONATA": 150,
+        "H1/HYUNDAI": 180,
+        "GMC": 285,
+        "HIACE": 230,
+        "COASTER": 375
+      }
+    },
+    {
+      "route": "MAK HTL-MAK TRAIN STN",
+      "prices": {
+        "CAMRY/SONATA": 120,
+        "H1/HYUNDAI": 145,
+        "GMC": 230,
+        "HIACE": 185,
+        "COASTER": 300
+      }
+    },
+    {
+      "route": "MAK TRAIN STN-MAK HTL",
+      "prices": {
+        "CAMRY/SONATA": 120,
+        "H1/HYUNDAI": 145,
+        "GMC": 230,
+        "HIACE": 185,
+        "COASTER": 300
+      }
+    },
+    {
+      "route": "MED HTL-MED TRAIN STN",
+      "prices": {
+        "CAMRY/SONATA": 120,
+        "H1/HYUNDAI": 145,
+        "GMC": 230,
+        "HIACE": 185,
+        "COASTER": 300
+      }
+    },
+    {
+      "route": "MED TRAIN STN-MED HTL",
+      "prices": {
+        "CAMRY/SONATA": 120,
+        "H1/HYUNDAI": 145,
+        "GMC": 230,
+        "HIACE": 185,
+        "COASTER": 300
+      }
+    },
+    {
+      "route": "MAK-MED VIA BADAR",
+      "prices": {
+        "CAMRY/SONATA": 430,
+        "H1/HYUNDAI": 515,
+        "GMC": 815,
+        "HIACE": 665,
+        "COASTER": 1075
+      }
+    },
+    {
+      "route": "MED-BADAR ZIYARAT",
+      "prices": {
+        "CAMRY/SONATA": 400,
+        "H1/HYUNDAI": 480,
+        "GMC": 760,
+        "HIACE": 620,
+        "COASTER": 1000
+      }
+    },
+    {
+      "route": "JED-MAK VIA TAIF",
+      "prices": {
+        "CAMRY/SONATA": 360,
+        "H1/HYUNDAI": 430,
+        "GMC": 685,
+        "HIACE": 560,
+        "COASTER": 900
+      }
+    },
+    {
+      "route": "MAK-JED APT CITY TOUR",
+      "prices": {
+        "CAMRY/SONATA": 470,
+        "H1/HYUNDAI": 565,
+        "GMC": 895,
+        "HIACE": 730,
+        "COASTER": 1175
+      }
+    },
+    {
+      "route": "MAK-TAIF ZIYARAT-MAK",
+      "prices": {
+        "CAMRY/SONATA": 360,
+        "H1/HYUNDAI": 430,
+        "GMC": 685,
+        "HIACE": 560,
+        "COASTER": 900
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "name": "CAMRY/SONATA",
+      "capacity": "5"
+    },
+    {
+      "name": "H1/HYUNDAI",
+      "capacity": "5"
+    },
+    {
+      "name": "GMC",
+      "capacity": "7"
+    },
+    {
+      "name": "HIACE",
+      "capacity": "18"
+    },
+    {
+      "name": "COASTER",
+      "capacity": "25"
+    },
+    {
+      "name": "Bus",
+      "capacity": "40-45"
+    }
+  ],
+  "airlines": [
+    {
+      "name": "PIA",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Air Blue",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "SereneAir",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "AirSial",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Fly Jinnah",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Saudia Airline",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Flynas",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Qatar Airways",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Turkish Airline",
+      "luggage": "7KG-40KG"
+    },
+    {
+      "name": "Emirates Airline",
+      "luggage": "7KG-40KG"
+    }
+  ],
+  "visaFees": [
+    {
+      "paxType": "adult",
+      "label": "Umrah Visa Processing Charges (Adult 12+)",
+      "rate": 500
+    },
+    {
+      "paxType": "child",
+      "label": "Umrah Visa Processing Charges (Child 2-11 Years)",
+      "rate": 450
+    },
+    {
+      "paxType": "infant",
+      "label": "Umrah Visa Processing Charges (Infant 0-23 Months)",
+      "rate": 400
+    }
+  ],
+  "settings": {
+    "pkrPerSar": 78.5,
+    "validityText": "Umrah Services Quotation is just Valid for 2-Days.",
+    "notes": [
+      "Rooms are subject to availability and rates may change.",
+      "In case of rejection or delay of the visa, the approval / visa charges will be deducted.",
+      "Airfare is subject to change by the airlines."
+    ],
+    "documentsRequired": [
+      "Original Machine Readable Passport (MRP) with minimum 8 months validity.",
+      "Advance payment is required for the Umrah visa and air tickets.",
+      "If a Send To Embassy (verification) case happens, an extra charge applies to this quotation."
+    ]
+  }
+}

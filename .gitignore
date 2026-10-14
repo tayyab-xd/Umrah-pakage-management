@@ -34,6 +34,9 @@ yarn-error.log*
 .env*
 !.env.example
 
+# real price data kept out of the repo (see scripts/seed.ts)
+/scripts/seed-data.local.json
+
 # vercel
 .vercel
 
