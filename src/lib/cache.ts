@@ -3,6 +3,7 @@
 // other users then.
 
 export const DATA_KEY = "uq_data";
+export const DATA_EVENT = "uq-data";
 
 export type RoomRates = {
   double: number | null;
@@ -45,6 +46,7 @@ export function saveReferenceData(data: ReferenceData) {
   } catch {
     // storage unavailable or full: the app falls back to fetching again
   }
+  window.dispatchEvent(new Event(DATA_EVENT));
 }
 
 export function getReferenceData(): ReferenceData | null {
